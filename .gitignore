@@ -1,0 +1,16 @@
+# Private runtime data and local generated outputs
+backups/
+test-artifacts/
+smoke-*/
+*.stage
+last-error.txt
+/GameSettings.ini
+/*.exe
+.DS_Store
+
+# Local agent handoff and machine-specific evidence
+/AGENTS.md
+/docs/PROJECT_STATUS.md
+/docs/任务书.md
+/evidence/
+/releases/
